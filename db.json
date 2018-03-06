@@ -1,11 +1,16 @@
 {
-    "buyer": [
-        { "id": 1, "buyer_name": "test-1"}
+    "buyer": [{
+            "id": 1,
+            "buyer_name": "test-1"
+        }
     ],
-    "order": [
-        {"id": 1, "buyerId": 1, "order": {
-            "order_id": 123,
-            "order_cost": 100
-            }}
+    "order": [{
+            "id": 1,
+            "buyerId": 1,
+            "order": {
+                "order_id": 123,
+                "order_cost": 100
+            }
+        }
     ]
 }
