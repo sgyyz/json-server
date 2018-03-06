@@ -1,5 +1,8 @@
 {
     "test": [
-        { "id": 1, "message": "test-1"}
+        { "id": 1, "message": [
+            {"id": 2, "content": "test-1"}
+            ]
+        }
     ]
 }
